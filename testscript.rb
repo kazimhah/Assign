@@ -5,7 +5,7 @@ require 'pp'
 role_name = ARGV[0]
 puts role_name
 
-chef_repo = '/Users/NIS1572-mbp/chef-repo'
+chef_repo = '/var/lib/jenkins/jobs/test/workspace'
 
 app_type = ARGV[1]
 puts app_type
@@ -19,7 +19,7 @@ puts env_role
 type = ARGV[4]
 puts type
 
-role_file_path = File.join(chef_repo, 'roles', "#{role_name}.json")
+role_file_path = File.join(chef_repo, 'Assign', "#{role_name}.json")
 puts role_file_path
 
 role_hash = JSON.parse(File.read(role_file_path))
