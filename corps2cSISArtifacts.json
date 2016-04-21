@@ -47,7 +47,7 @@
     "corps2c-AuthService": {
       "corps2cEnvQAManual": {
         "artifact": {
-          "url": "http://one.com",
+          "url": "random",
           "md5": "e3f8098f6ed6d7e9059247516d2bf510"
         }
       },
