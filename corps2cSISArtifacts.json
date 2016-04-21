@@ -3,11 +3,11 @@
     "corps2c-InventoryService": {
       "corps2cEnvQAManual": {
         "db_migrations": {
-          "url": "random",
+          "url": "http://sample",
           "md5": "bab36b14f5d788848390083fffb4a353"
         },
         "artifact": {
-          "url": "random",
+          "url": "http://sample",
           "md5": "38296a26bc7419724178bb7959e930ad"
         }
       },
