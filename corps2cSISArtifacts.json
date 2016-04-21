@@ -25,11 +25,11 @@
     "corps2c-PricingService": {
       "corps2cEnvQAManual": {
         "db_migrations": {
-          "url": "http://one.com",
+          "url": "random",
           "md5": "057c37d9c96e5416b238e154ef79768e"
         },
         "artifact": {
-          "url": "http://one.com",
+          "url": "random",
           "md5": "56c008d41cf275de5e2778f035cfe127"
         }
       },
